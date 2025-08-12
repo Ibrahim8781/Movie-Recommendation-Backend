@@ -49,7 +49,7 @@ Server runs by default on http://localhost:5000.
 
 📑 API Documentation
 You can explore the API via the included Postman collection:
-Postman Documentation Link: https://elements.getpostman.com/redirect?entityId=34836347-7454486d-d8bf-4fb1-8f14-ea6b4b129801&entityType=collection
+Postman Documentation Link: [https://elements.getpostman.com/redirect?entityId=34836347-7454486d-d8bf-4fb1-8f14-ea6b4b129801&entityType=collection](https://www.postman.com/altimetry-candidate-98426022/ibrahim8781-codespace/collection/5wkucep/movies-remommendation-backend-copy?action=share&creator=34836347)
 
 📌 Example Use Case
 Register a new user.
